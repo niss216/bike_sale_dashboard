@@ -1,2 +1,2 @@
 # bike_sale_dashboard
-in this project we use pivot tables in Excel to summerize our data in useful statistical tables then visualize those tables by some charts ,building Dynamic Dashboard which give us good insights for making the right decisions for the best future selling 
+in this project we use pivot tables in Excel to summerize our data in useful statistical tables then visualize those tables by some charts ,building Dynamic Dashboard give us good insights about the buyers of bicycles according to the gender,marital status,region ,education,customer age brackets,commute distance to take conclusions for  improving the product sales by making the right dicisions decisions for the best selling in the future 
